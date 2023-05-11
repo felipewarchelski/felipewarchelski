@@ -3,7 +3,6 @@
 - 🔭 I’m currently searching for employment
 - 🌱 I’m currently learning HTML, CSS, JS, Java
 - 📚 I'm studying Computer Science at UniCuritiba University
-- 😄 Pronouns: he/him
 
 <div style="display: inline_block"><br>
   <img align="center" alt="FW-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
