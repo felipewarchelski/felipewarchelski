@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently searching for employment
-- 🌱 I’m currently learning HTML, CSS, JS, Java
+- 🌱 I’m currently learning HTML, CSS, JS and Java
 - 📚 I'm studying Computer Science at UniCuritiba University
 
 <div style="display: inline_block"><br>
