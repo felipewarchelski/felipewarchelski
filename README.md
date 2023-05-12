@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 - 👀 I’m currently searching for employment
 - 💻 I’m currently learning HTML, CSS, JS and Java
