@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 👀 I’m currently searching for employment
+- 👀 I'm open to collaborating on interesting projects as a developer
 - 💻 I’m currently learning HTML, CSS, JS and Java
 - 📚 I'm coursing Computer Science at UniCuritiba University
 
