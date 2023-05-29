@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 - 👀 I'm open to collaborating on interesting projects as a developer
-- 💻 I’m currently learning HTML, CSS, JS and Java
+- 💻 I’m currently learning JavaScript
 - 📚 I'm coursing Computer Science at UniCuritiba University
 - 📜 Take a look at my <a target="_blank" href="https://felipewarchelski.github.io/MyPortfolio/" target="_blank">Portfolio</a>
 
@@ -24,7 +24,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipewarchelski&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipewarchelski&layout=compact&theme=dark)](https://github.com/felipewarchelski)
-
-
-
-
