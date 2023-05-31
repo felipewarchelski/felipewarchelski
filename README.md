@@ -3,7 +3,7 @@
 - 👀 I'm open to collaborating on interesting projects as a developer
 - 💻 I’m currently learning JavaScript
 - 📚 I'm coursing Computer Science at UniCuritiba University
-- 📜 Take a look at my <a target="_blank" href="https://felipewarchelski.github.io/MyPortfolio/" target="_blank">Portfolio</a>
+- 📜 Take a look at my <a target="_blank" href="https://felipewarchelski.github.io/MyPortfolio/">Portfolio</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="FW-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
