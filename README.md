@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 - 👀 I'm open to collaborating on interesting projects as a developer
-- 💻 I’m currently learning PHP and R
+- 💻 I’m currently learning PHP
 - 📚 I'm coursing Computer Science at UniCuritiba University
 - 📜 Take a look at my <a target="_blank" href="https://felipewarchelski.vercel.app/">Portfolio</a>
 
