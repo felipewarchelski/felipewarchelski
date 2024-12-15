@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 - 👀 I'm open to collaborating on interesting projects as a developer
-- 💻 I’m currently learning React and TypeScript
+- 💻 I’m currently learning Next and TypeScript
 - 📚 I'm coursing Computer Science
 - 📜 Take a look at my <a target="_blank" href="https://felipewarchelski.vercel.app/">Portfolio</a>
 
